@@ -212,3 +212,9 @@ Interactive Business Intelligence Dashboard
 
 This project successfully analyzed customer purchasing behavior using RFM analysis and clustering techniques. Customers were segmented into meaningful groups, and a product recommendation system was developed using collaborative filtering. The generated insights can help businesses improve customer engagement, optimize marketing strategies, and deliver personalized shopping experiences.
 
+<img width="1135" height="412" alt="image" src="https://github.com/user-attachments/assets/a8537de7-d71b-4b13-8c46-b5e07cba6022" />
+
+<img width="1365" height="515" alt="image" src="https://github.com/user-attachments/assets/5c96a31b-4632-4b2a-bd04-65ebfc931136" />
+
+<img width="859" height="604" alt="image" src="https://github.com/user-attachments/assets/1455eb4c-71fb-488d-9e90-67156ffcb2db" />
+
